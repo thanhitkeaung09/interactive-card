@@ -1,6 +1,8 @@
 <template>
   <div>
       <div class="bg-[url('../images/bg-main-mobile.png')] lg:bg-[url('../images/bg-main-desktop.png')] w-full h-screen bg-no-repeat object-cover">
+      <img src="../images/bg-main-desktop.png" class="hidden" alt="">
+      <img src="../images/bg-main-mobile.png" class="hidden" alt="">
          
          <div class="w-[90%] h-full mx-auto">
 
